@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://github.com/AnonymousHacker2004/readme-typing-svg">
         <img
-                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
+                src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=frontend+Developer&center=true&width=580&height=45"></a>
 </p>
 
 <div align="center">
